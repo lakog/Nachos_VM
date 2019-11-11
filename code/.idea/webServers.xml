@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f31415b7-a6a5-4f32-ae16-9de63ac60561" name="lcs-vc-cis486.syr.edu" url="http://lcs-vc-cis486.syr.edu">
+        <fileTransfer host="lcs-vc-cis486.syr.edu" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
